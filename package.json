@@ -1,6 +1,6 @@
 {
   "name": "@loadsmart/stylelint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A shareable default Stylelint config for ease of use in projects",
   "main": "index.js",
   "scripts": {
