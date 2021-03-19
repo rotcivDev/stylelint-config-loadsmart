@@ -1,5 +1,5 @@
 # stylelint-config-loadsmart
-A default configuration for Stylelint to be used on all projects that have CSS code in the company (or whoever wants to use it)
+A default configuration for Stylelint to be used on all projects that have CSS code in the company (or whoever wants to use it).
 
 ## Usage
 
