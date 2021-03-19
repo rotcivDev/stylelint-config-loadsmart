@@ -8,7 +8,7 @@ A default configuration for Stylelint to be used on all projects that have CSS c
 # with yarn
 yarn add -D stylelint
 
-# with npmv
+# with npm
 npm install stylelint
 ```
 
@@ -17,7 +17,7 @@ npm install stylelint
 # with yarn
 yarn add -D @loadsmart/stylelint-config
 
-# with npmv
+# with npm
 npm install --save-dev @loadsmart/stylelint-config
 ```
 
