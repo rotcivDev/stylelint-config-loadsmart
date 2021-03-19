@@ -59,4 +59,4 @@ To contribute, simply [open a PR](https://github.com/loadsmart/stylelint-config-
 
 For major rule changes that can affect everyone, it is advised to first start an RFC to discuss it.
 
-For issues, report them straight to the github [repo's issues page](https://github.com/loadsmart/stylelint-config-loadsmart/issues)
+For issues, report them straight to the github [repo's issues page](https://github.com/loadsmart/stylelint-config-loadsmart/issues).
