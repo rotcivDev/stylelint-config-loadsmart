@@ -21,8 +21,10 @@
     "url": "https://github.com/loadsmart/stylelint-config-loadsmart/issues"
   },
   "homepage": "https://github.com/loadsmart/stylelint-config-loadsmart#readme",
+  "peerDependencies": {
+    "stylelint": "^13.12.0"
+  },
   "dependencies": {
-    "stylelint": "^13.12.0",
     "stylelint-no-unsupported-browser-features": "^4.1.4",
     "stylelint-order": "^4.1.0",
     "stylelint-config-recommended": "^4.0.0",
