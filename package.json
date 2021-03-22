@@ -1,6 +1,6 @@
 {
   "name": "@loadsmart/stylelint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A shareable default Stylelint config for ease of use in projects",
   "main": "index.js",
   "scripts": {
@@ -25,11 +25,11 @@
     "stylelint": "^13.12.0"
   },
   "dependencies": {
-    "stylelint-no-unsupported-browser-features": "^4.1.4",
-    "stylelint-order": "^4.1.0",
-    "stylelint-config-recommended": "^4.0.0",
+    "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-rational-order": "^0.1.2",
-    "stylelint-config-prettier": "^8.0.2"
+    "stylelint-config-recommended": "^4.0.0",
+    "stylelint-no-unsupported-browser-features": "^4.1.4",
+    "stylelint-order": "^4.1.0"
   },
   "devDependencies": {
     "eslint": "^7.22.0",
