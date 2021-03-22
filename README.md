@@ -9,7 +9,7 @@ A default configuration for Stylelint to be used on all projects that have CSS c
 yarn add -D stylelint
 
 # with npm
-npm install stylelint
+npm install --save-dev stylelint
 ```
 
 2. Install this config preset (also preferably as a dev dependency):
